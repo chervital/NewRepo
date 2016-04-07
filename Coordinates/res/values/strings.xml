@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Coordinates</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="start">Старт</string>
+<string name="stop">Стоп</string>
+
+    <string name="provider_gps">GPS</string>
+<string name="provider_network">Network</string>
+<string name="location_settings">Location settings</string>
+
+</resources>
